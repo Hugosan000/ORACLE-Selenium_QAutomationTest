@@ -1,4 +1,7 @@
 # Selenium with Python 
+
+![image](https://user-images.githubusercontent.com/61331185/227620248-34a012fe-1a2e-46fe-a37d-8d1b429a10ae.png)
+
  Automation script created for study purposes and for a technical evaluation on Oracle position
 
 
